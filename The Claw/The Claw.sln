@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "The Claw.CSharp.Plugins", "The Claw.CSharp.Plugins.csproj", "{3E9E94D6-E2EF-6951-BC40-768A0B736698}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "The Claw.CSharp", "The Claw.CSharp.csproj", "{30C375BD-81E5-33DF-D365-60A5CD371B5E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "The Claw.CSharp.Editor", "The Claw.CSharp.Editor.csproj", "{88D2B4D6-EEC1-CC3D-98C0-D3765F93C307}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3E9E94D6-E2EF-6951-BC40-768A0B736698}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3E9E94D6-E2EF-6951-BC40-768A0B736698}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3E9E94D6-E2EF-6951-BC40-768A0B736698}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3E9E94D6-E2EF-6951-BC40-768A0B736698}.Release|Any CPU.Build.0 = Release|Any CPU
+		{30C375BD-81E5-33DF-D365-60A5CD371B5E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{30C375BD-81E5-33DF-D365-60A5CD371B5E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{30C375BD-81E5-33DF-D365-60A5CD371B5E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{30C375BD-81E5-33DF-D365-60A5CD371B5E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{88D2B4D6-EEC1-CC3D-98C0-D3765F93C307}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{88D2B4D6-EEC1-CC3D-98C0-D3765F93C307}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{88D2B4D6-EEC1-CC3D-98C0-D3765F93C307}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{88D2B4D6-EEC1-CC3D-98C0-D3765F93C307}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
