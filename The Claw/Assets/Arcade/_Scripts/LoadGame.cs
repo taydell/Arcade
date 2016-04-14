@@ -19,7 +19,7 @@ public class LoadGame : MonoBehaviour
     }
     void loadShop()
     {
-        SceneManager.LoadScene("Main");
+        SceneManager.LoadScene("Shop");
     }
 
     void OnTriggerStay(Collider other)

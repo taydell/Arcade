@@ -71,9 +71,13 @@
     <Compile Include="Assets\Claw\ZTest\Animations.cs" />
     <Compile Include="Assets\Claw\ZTest\MoveWithMouse.cs" />
     <Compile Include="Assets\Claw\_Scripts\ButtonController.cs" />
+    <Compile Include="Assets\Claw\_Scripts\ClawGUI.cs" />
     <Compile Include="Assets\Claw\_Scripts\Joystick.cs" />
     <Compile Include="Assets\Claw\_Scripts\JoystickRotate.cs" />
+    <Compile Include="Assets\Galaga\_Scripts\GalagaGUI.cs" />
     <Compile Include="Assets\Galaga\_Scripts\Test.cs" />
+    <Compile Include="Assets\Shop\_Scripts\ShopGUI.cs" />
+    <Compile Include="Assets\Skeeball\_Scripts\SkeeballGUI.cs" />
     <Compile Include="Assets\Start\_Scripts\Gotomainscene.cs" />
     <Compile Include="Assets\Start\_Scripts\SetInitial.cs" />
     <Compile Include="Assets\_Scripts\Objects.cs" />
