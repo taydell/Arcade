@@ -1,4 +1,8 @@
 sceneSetups:
+<<<<<<< HEAD
 - path: Assets/_Scenes/Arcade.unity
+=======
+- path: Assets/_Scenes/Shop.unity
+>>>>>>> c2516aaea203332d08e34381a05de85de587eccd
   isLoaded: 1
   isActive: 1

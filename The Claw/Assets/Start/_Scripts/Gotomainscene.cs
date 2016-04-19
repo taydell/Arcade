@@ -4,11 +4,9 @@ using UnityEngine.SceneManagement;
 
 public class Gotomainscene : MonoBehaviour 
 {
-	void Update () 
+    public void LoadScene(string level)
     {
-        if (Input.GetKeyDown(KeyCode.Alpha1))
-        {
-            SceneManager.LoadScene("Arcade");
-        }
-	}
+        Debug.Log("ayy");
+        SceneManager.LoadScene(level);
+    }
 }
